@@ -7,7 +7,7 @@
 3. Is it odd or even?
 
 * Use any language. More than one (separately) is fine too
-* Use the following format for names: coins_<yourGithandle>.<langExt>
+* Use the following format for names: coins_&lt;yourGithandle&gt;.&lt;langExt&gt;
 * Feel free to interact with others
 * Use proper Git protocols (branch, modify, pull_requests etc.)
 
