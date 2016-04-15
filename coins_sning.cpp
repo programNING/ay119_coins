@@ -57,3 +57,12 @@ int countWays(int money) {
 	return ways;
 
 }
+
+int main(int argc, char** argv) {
+	if (argc != 2) {
+		std::cerr << "usage: ./programname money_amnt" << std::endl;
+		return -1;
+	}
+
+	
+}
